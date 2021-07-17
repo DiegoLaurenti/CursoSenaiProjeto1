@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+body {
+    background: rgba(222, 184, 135, 0.555);
+}
+
+p {
+    
+    color: black;  
+}
+
+img {
+    border-radius: 30px;
+}
